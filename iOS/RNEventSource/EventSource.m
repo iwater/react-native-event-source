@@ -12,7 +12,7 @@
 static CGFloat const ES_RETRY_INTERVAL = 1.0;
 static CGFloat const ES_DEFAULT_TIMEOUT = 300.0;
 
-static NSString *const ESKeyValueDelimiter = @": ";
+static NSString *const ESKeyValueDelimiter = @":";
 static NSString *const ESEventSeparatorLFLF = @"\n\n";
 static NSString *const ESEventSeparatorCRCR = @"\r\r";
 static NSString *const ESEventSeparatorCRLFCRLF = @"\r\n\r\n";
